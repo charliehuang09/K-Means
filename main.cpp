@@ -112,4 +112,4 @@ int main(){
     k_Means.print_data();
     k_Means.fit(10);
     k_Means.print_centroids();
-}//O (k * (x * ()) )
+}
